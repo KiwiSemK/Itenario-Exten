@@ -39,3 +39,4 @@ print(f"\nTotal geral de ocorrências: {total_ocorrencias}\n")
 
 print("Tabela de ocorrências por UF e Tipo de Ocorrência:")
 print(tabela_ocorrencias)
+
